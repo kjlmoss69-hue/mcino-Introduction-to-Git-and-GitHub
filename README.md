@@ -12,6 +12,6 @@ Input:
 Output
    simple interest = p*t*r
 ```
-##updated year Jmoss 12202025
+# updated year Jmoss 12202025
 
 _© 2023 XYZ, Inc._
